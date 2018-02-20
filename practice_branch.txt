@@ -1,1 +1,3 @@
 Practice Committing a new file to a branch
+
+Practice modifying a file that has been opened with the github desktop application and then committing the new file to the branch of origin.
